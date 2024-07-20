@@ -1,6 +1,7 @@
 # Automatic Fish Feeder with Raspberry Pi
 
 This project uses a Raspberry Pi to control an SG-90 servo motor for feeding fish automatically. The servo is scheduled to rotate and dispense food at a specific time every day. It also sends an email notification whenever the feeding process is completed.
+
 <img src="https://github.com/user-attachments/assets/0b893b78-51a2-4768-be4d-f9ca62e84620" alt="Servo motor for this project" width="300" height="300">
 
 ## Components
