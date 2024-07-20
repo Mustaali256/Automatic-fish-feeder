@@ -75,7 +75,7 @@ This project uses a Raspberry Pi to control an SG-90 servo motor for feeding fis
     ```sh
     0 11 * * * sudo python3 ~/Automatic-fish-feeder/fishFeeder.py # Set to 11am everyday
     ```
-    You can connect a drum to the servo motor which will dispense fish food out of a hole one it rotates 180 degrees.
+    You can connect a drum to the servo motor which will dispense fish food out of a hole once it rotates 180 degrees.
 ## Gmail
   If you are using a Gmail account to send the confirmation email, you will need to turn on two-factor authentication and [set an app-specific password](https://myaccount.google.com/apppasswords) which you will use to replace your password in the `fishFeeder.py` file.
   For example, if your app password looks like this:
