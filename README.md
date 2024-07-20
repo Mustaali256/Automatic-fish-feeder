@@ -89,6 +89,6 @@ This project uses a Raspberry Pi to control an SG-90 servo motor for feeding fis
 ## Troubleshooting
 
 - **Power Issues**: Ensure the Raspberry Pi and servo motor are properly powered. A more powerful power supply might be needed.
-- **Servo Motor Issues**: Check connections and ensure the servo pin has been set to the pin mentioned in the Python file. you may want to check your servo's datasheet for PWN timing if it is different.
+- **Servo Motor Issues**: Check connections and ensure the servo pin has been set to the pin mentioned in the Python file. You may want to check your servo's datasheet for PWM timing if it is different.
 - **Email Sending Issues**: Verify email credentials and internet connection.
 - **Log Files**: Check `~/fish_feeder.log` for detailed logs.
